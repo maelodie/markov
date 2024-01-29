@@ -1,0 +1,2 @@
+# Markov chains - spread of an epidemic in a population
+This project involves simulating the evolution of a disease within a population based on its current state and the probabilities of transitioning from one state to another, in other words, using a Markov chain.
